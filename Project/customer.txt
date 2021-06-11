@@ -1,0 +1,90 @@
+Customer1 1111 정예원 X
+Customer2 8266 김철수 달걀 X
+Customer3 9892 박지윤 X
+Customer4 1325 윤미영 우유 X
+Customer5 2693 이영자 달걀 X
+Customer6 1112 채선정 X
+Customer7 1111 김우주 X
+Customer8 1836 이연복 X
+Customer9 3518 지연우 딸기 X
+Customer10 2381 한지우 X
+Customer11 1223 지창욱 X
+Customer12 1004 박정훈 산삼 인삼 홍삼 X
+Customer13 9387 윤지원 전복내장 꽃  X
+Customer14 0159 최진성 꿀 X
+Customer15 1387 김영기 매실 X
+Customer16 1333 조수빈 X
+Customer17 3422 박수빈 X
+Customer18 1888 박지경 X
+Customer19 9827 정욱 X
+Customer20 8888 신성원 X
+Customer21 1009 최원석  X
+Customer22 7764 정현정 X
+Customer23 9873 정해창 X
+Customer24 1253 김가정 X
+Customer25 0098 이태양 X
+Customer26 3591 이희주 딸기 복숭아 청포도 X
+Customer27 2112 박지현 우유 X
+Customer28 7473 지유경 X
+Customer29 9874 장영서 복숭아 사과 X
+Customer30 2319 김규일 복숭아 우유 X
+Customer31 3821 한지평 복숭아 녹차 X
+Customer32 1399 이재욱 우유 X
+Customer33 1768 민경환 X
+Customer34 7777 안현섭 딸기 X
+Customer35 0090 유철호 X
+Customer36 9090 전수민 자몽 생크림 X
+Customer37 3209 안서연 복숭아 X
+Customer38 4049 이진선 복숭아 X
+Customer39 1764 홍진표 복숭아 X
+Customer40 1983 문재인 X
+Customer41 1947 박근혜 복숭아 X
+Customer42 2000 이명박 복숭아 X
+Customer43 2016 김해미루 복숭아 X
+Customer44 8710 이혜미 X
+Customer45 3039 윤정환 X
+Customer46 2933 윤지승 딸기 X
+Customer47 9874 최성호 청포도 X
+Customer48 9829 양다빈 X
+Customer49 3499 고태림 생크림 X
+Customer50 3029 배혜림 블루베리 X
+Customer51 1265 이기자 X
+Customer52 8955 주연우 X
+Customer53 9911 구자철 고구마 X
+Customer54 6333 민소희 초콜릿 X
+Customer55 0085 서지연 딸기 X
+Customer56 2345 윤지수 X
+Customer57 2699 유소희 녹차 X
+Customer58 4963 허혜빈 X
+Customer59 3217 원효린 사과 초콜릿 X
+Customer60 6222 정수빈 X
+Customer61 3000 이유리 X
+Customer62 2071 이효리 X
+Customer63 0136 서효린 X
+Customer64 2810 예지원 달걀 X
+Customer65 1620 유민상 X
+Customer66 1621 류소진 X 
+Customer67 3917 김라영 자몽 X
+Customer68 1367 우준혁 X
+Customer69 5697 김에스더 X
+Customer70 8221 허민 X
+Customer71 0900 주우재 X
+Customer72 4177 여은희 X
+Customer73 6464 남궁민 X
+Customer74 3318 서현진 블루베리 X
+Customer75 1927 김서형 달걀 X
+Customer76 2096 임주향 X
+Customer77 4639 박윤수 청포도 X
+Customer78 8937 성시경 X
+Customer79 6391 이채아 X
+Customer80 2172 임준영 X
+Customer81 1213 채미라 딸기 X
+Customer82 6999 염지우 X
+Customer83 5610 이서정 X
+Customer84 3633 진현필 달걀 딸기 X
+Customer85 9292 강동원 매실 X
+Customer86 1823 정우성 X
+Customer87 3106 천유진 X
+Customer88 9947 한사랑 X
+Customer89 3171 팽현숙 생크림 X
+Customer90 0105 서지숙 X
